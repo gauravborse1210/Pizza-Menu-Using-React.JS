@@ -1,3 +1,3 @@
 # First React Application
 
-Craected first react application by using React Components, Props, Fragment and more.
+Created my first ever React application using Raect concepts such as React Components, Props, Fragments and more.
